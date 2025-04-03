@@ -129,14 +129,14 @@ We continuously collected and analyzed user feedback to improve UI/UX and design
 
 | Feature | Status |
 |---------|--------|
-| Sign up/Login | <img src="https://progress-bar.dev/100" alt="100%" /> |
-| Party Management | <img src="https://progress-bar.dev/100" alt="100%" /> |
-| Capsule (Post) Creation | <img src="https://progress-bar.dev/100" alt="100%" /> |
-| User Management | <img src="https://progress-bar.dev/100" alt="100%" /> |
-| Capsule Content Viewing | <img src="https://progress-bar.dev/100" alt="100%" /> |
-| Location-Based Content Provision | <img src="https://progress-bar.dev/100" alt="100%" /> |
-| SNS Features | <img src="https://progress-bar.dev/100" alt="100%" /> |
-| Notifications | <img src="https://progress-bar.dev/100" alt="100%" /> |
+| Sign up/Login | ✅ 100% |
+| Party Management | ✅ 100% |
+| Capsule (Post) Creation | ✅ 100% |
+| User Management | ✅ 100% |
+| Capsule Content Viewing | ✅ 100% |
+| Location-Based Content Provision | ✅ 100% |
+| SNS Features | ✅ 100% |
+| Notifications | ✅ 100% |
 
 ## 💫 Expected Effects
 
