@@ -159,5 +159,5 @@ We continuously collected and analyzed user feedback to improve UI/UX and design
 ---
 
 <p align="center">
-  <i>2024 Hanium ICT Mentoring Project</i>
+  <i>2024 Hanium ICT Competition hosted by Korea Government</i>
 </p>
