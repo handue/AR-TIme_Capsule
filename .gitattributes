@@ -1,0 +1,4 @@
+*.java linguist-language=Java
+*.dart linguist-language=Dart
+assets/* linguist-vendored
+README.md linguist-documentation
